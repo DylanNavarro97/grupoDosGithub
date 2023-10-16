@@ -17,3 +17,7 @@ main {
     height: 100px;
     object-fit: cover;
 }
+
+.backgroundLinks{
+    background-color: rgba(207, 207, 207, 0.753);
+}
