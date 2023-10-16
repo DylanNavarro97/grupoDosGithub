@@ -7,3 +7,13 @@ body {
 main {
     flex-grow: 1;
 }
+
+.banner {
+    height: 450px;
+    object-fit: cover;
+}
+
+.topic {
+    height: 100px;
+    object-fit: cover;
+}
