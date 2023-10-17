@@ -17,3 +17,20 @@ main {
     height: 100px;
     object-fit: cover;
 }
+
+.backgroundLinks{
+    background-color: rgba(207, 207, 207, 0.753);
+}
+
+.valor{
+    border-radius: 20%;
+}
+
+#tablaValores{
+    border-left: 1px solid #DDD;
+    border-right: 1px solid #DDD;
+}
+
+footer ul li a {
+    text-decoration: none;
+}
