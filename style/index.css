@@ -30,3 +30,7 @@ main {
     border-left: 1px solid #DDD;
     border-right: 1px solid #DDD;
 }
+
+footer ul li a {
+    text-decoration: none;
+}
